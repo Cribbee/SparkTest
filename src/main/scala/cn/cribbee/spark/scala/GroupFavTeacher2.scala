@@ -7,7 +7,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 
 import scala.collection.mutable.ListBuffer
-import Array._
 
 object GroupFavTeacher2 {
   def main(args: Array[String]): Unit = {
